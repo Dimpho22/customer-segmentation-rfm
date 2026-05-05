@@ -1,7 +1,7 @@
 #Customer Segmentation Analysis (RFM Model)
 
 ##Dashboard Preview
-![Dashboard](powerbi-screenshot.png)
+![Dashboard](PowerBI-snapshoot.png)
 
 ---
 
