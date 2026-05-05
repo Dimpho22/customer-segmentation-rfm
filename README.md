@@ -1,23 +1,23 @@
-# Customer Segmentation Analysis (RFM Model)
+#Customer Segmentation Analysis (RFM Model)
 
-## Dashboard Preview
+##Dashboard Preview
 ![Dashboard](powerbi-screenshot.png)
 
 ---
 
-## Project Overview
+##Project Overview
 Customer segmentation analysis using Recency, Frequency, and Monetary (RFM) modelling to identify high-value customers, revenue drivers, and at-risk segments.
 
 ---
 
-## Tools Used
+##Tools Used
 - Excel  
 - SQL  
 - Power BI  
 
 ---
 
-## Key Work Performed
+##Key Work Performed
 - Cleaned and standardised ~9,800 records in Excel  
 - Built RFM segmentation logic using SQL (NTILE, CASE)  
 - Classified 700+ customers into behavioural segments  
@@ -25,7 +25,7 @@ Customer segmentation analysis using Recency, Frequency, and Monetary (RFM) mode
 
 ---
 
-## Key Insights
+##Key Insights
 - Total revenue reached ~2.47M across 714 customers  
 - High-value customers represent a small but critical segment (~16%)  
 - Majority of customers fall into Average and At Risk categories  
@@ -33,7 +33,7 @@ Customer segmentation analysis using Recency, Frequency, and Monetary (RFM) mode
 
 ---
 
-## 💡 Recommendations
+##Recommendations
 - Strengthen retention strategies for high-value and loyal customers  
 - Re-engage at-risk customers through targeted campaigns  
 - Upsell average customers to increase overall customer value  
